@@ -1,0 +1,6 @@
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\6-AtribuicoesDeVAriaveis\bin\Debug\6-AtribuicoesDeVAriaveis.exe.config
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\6-AtribuicoesDeVAriaveis\bin\Debug\6-AtribuicoesDeVAriaveis.exe
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\6-AtribuicoesDeVAriaveis\bin\Debug\6-AtribuicoesDeVAriaveis.pdb
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\6-AtribuicoesDeVAriaveis\obj\Debug\6-AtribuicoesDeVAriaveis.csproj.CoreCompileInputs.cache
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\6-AtribuicoesDeVAriaveis\obj\Debug\6-AtribuicoesDeVAriaveis.exe
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\6-AtribuicoesDeVAriaveis\obj\Debug\6-AtribuicoesDeVAriaveis.pdb

@@ -1,0 +1,7 @@
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\8-Concionais2\bin\Debug\8-Concionais2.exe.config
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\8-Concionais2\bin\Debug\8-Concionais2.exe
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\8-Concionais2\bin\Debug\8-Concionais2.pdb
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\8-Concionais2\obj\Debug\8-Concionais2.csprojAssemblyReference.cache
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\8-Concionais2\obj\Debug\8-Concionais2.csproj.CoreCompileInputs.cache
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\8-Concionais2\obj\Debug\8-Concionais2.exe
+C:\Users\karoline.suzuki\source\repos\AprendendoCSharpe\8-Concionais2\obj\Debug\8-Concionais2.pdb
